@@ -1,3 +1,3 @@
 this is the readme
 here is the screenshot
-![screenshot](/src/img.png)
+![screenshot](https://github.com/yh-Joe/Comp3111LEx/blob/master/src/img.png)
